@@ -5,7 +5,7 @@ Hamburger icon animeted with CSS3 only, no js
 
 
 ```html
-/* albertosono
+/* https://github.com/AlbertoSono
 css-animate-hamburger-icon
 https://github.com/AlbertoSono/css-animate-hamburger-icon
 */
