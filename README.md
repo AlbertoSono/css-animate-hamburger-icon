@@ -3,7 +3,7 @@ Hamburger icon animeted with CSS3 only, no js
 
 \# based on: https://codepen.io/eduardoboucas/pen/rayExg
 
-![gif]
+![gif](https://github.com/AlbertoSono/css-animated-hamburger-icon/blob/main/burger.gif)
 
 ```html
 /* https://github.com/AlbertoSono
