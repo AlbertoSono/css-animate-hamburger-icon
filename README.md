@@ -1,4 +1,4 @@
-# css-animate-hamburger-icon
+# css-animated-hamburger-icon
 Hamburger icon animeted with CSS3 only, no js 
 
 \# based on: https://codepen.io/eduardoboucas/pen/rayExg
