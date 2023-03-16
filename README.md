@@ -4,7 +4,7 @@ Hamburger icon animeted with CSS3 only, no js
 \# based on: https://codepen.io/eduardoboucas/pen/rayExg
 
 
-
+```
 /* albertosono
 css-animate-hamburger-icon
 https://github.com/AlbertoSono/css-animate-hamburger-icon
@@ -68,3 +68,4 @@ https://github.com/AlbertoSono/css-animate-hamburger-icon
 </style>
 <input class="burger-check" id="burger-check" type="checkbox"><label for="burger-check" class="burger"></label>
 
+```
